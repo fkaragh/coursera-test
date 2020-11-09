@@ -31,7 +31,8 @@ section{
   margin-top: 0px;
   color:black ;
   text-align: center;
-  padding-top: 6px;
+  padding-top: 5px;
+  font-size: 130%;
 }
 .sushi{
   background-color: #c464ba;
@@ -44,7 +45,8 @@ section{
   margin-top: 0px;
   color:black;
   text-align: center;
-  padding-top: 6px;
+  padding-top: 5px;
+  font-size: 130%;
 }
 .beef{
   background-color: #e03333;
@@ -57,7 +59,8 @@ section{
   margin-top: 0px;
   color:white;
   text-align: center;
-  padding-top: 6px;
+  padding-top: 5px;
+  font-size: 130%;
 }
 */
 .row {
